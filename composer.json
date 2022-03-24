@@ -1,0 +1,16 @@
+{
+    "name": "expandcart/uintconverion",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Expandcart\\UintConversion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "expandHamza",
+            "email": "mohammed.hamza@expandcart.com"
+        }
+    ],
+    "require": {}
+}
